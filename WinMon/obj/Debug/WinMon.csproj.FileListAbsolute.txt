@@ -1,0 +1,13 @@
+C:\Users\de51492\source\repos\WinMon\WinMon\bin\Debug\WinMon.exe.config
+C:\Users\de51492\source\repos\WinMon\WinMon\bin\Debug\WinMon.exe
+C:\Users\de51492\source\repos\WinMon\WinMon\bin\Debug\WinMon.pdb
+C:\Users\de51492\source\repos\WinMon\WinMon\obj\Debug\WinMon.Properties.Resources.resources
+C:\Users\de51492\source\repos\WinMon\WinMon\obj\Debug\WinMon.csproj.GenerateResource.cache
+C:\Users\de51492\source\repos\WinMon\WinMon\obj\Debug\WinMon.csproj.CoreCompileInputs.cache
+C:\Users\de51492\source\repos\WinMon\WinMon\obj\Debug\WinMon.exe
+C:\Users\de51492\source\repos\WinMon\WinMon\obj\Debug\WinMon.pdb
+C:\Users\de51492\source\repos\WinMon\WinMon\obj\Debug\WinMon.CombatScreen.resources
+C:\Users\de51492\source\repos\WinMon\WinMon\obj\Debug\WinMon.MainScreen.resources
+C:\Users\de51492\source\repos\WinMon\WinMon\obj\Debug\WinMon.StartScreen.resources
+C:\Users\de51492\source\repos\WinMon\WinMon\obj\Debug\WinMon.RoamScreen.resources
+C:\Users\de51492\source\repos\WinMon\WinMon\obj\Debug\WinMon.csproj.AssemblyReference.cache
